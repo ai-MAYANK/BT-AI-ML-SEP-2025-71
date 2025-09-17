@@ -1,0 +1,53 @@
+# Created by venv; see https://docs.python.org/3/library/venv.html
+
+# --- Python ---
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pkl
+*.egg-info/
+*.egg
+*.manifest
+*.spec
+
+# --- Virtual environments ---
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# --- Jupyter Notebook checkpoints ---
+.ipynb_checkpoints
+
+# --- VS Code / IDE stuff ---
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# --- Data files (optional, if large datasets shouldn’t be pushed) ---
+data/
+*.csv
+*.tsv
+*.xls
+*.xlsx
+*.json
+
+# --- Logs ---
+*.log
+
+# --- Plots and outputs ---
+*.png
+*.jpg
+*.jpeg
+*.pdf
+
+# --- OS files ---
+.DS_Store
+Thumbs.db
+
+requirements.txt

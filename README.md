@@ -33,7 +33,7 @@ BT-AI-ML-SEP-2025-71/
 
 ### Task 1 – Titanic Dataset Classification
 **Objective:** Predict whether a passenger survived the Titanic disaster  
-**Dataset:** `train.csv` (included in folder)
+**Dataset:** `train.csv` (included in folder)  
 **Source:** Downloaded from [Kaggle Titanic Competition](https://www.kaggle.com/competitions/titanic) as per Badkul Technology instructions
 
 
@@ -59,7 +59,7 @@ BT-AI-ML-SEP-2025-71/
 
 ### Task 2 – House Price Regression
 **Objective:** Predict house prices using numerical and categorical features  
-**Dataset:** `train_001.csv` and `test.csv` (included in folder)
+**Dataset:** `train_001.csv` and `test.csv` (included in folder)  
 **Source:** Downloaded from [Kaggle House Prices Competition](https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques) as per Badkul Technology instructions
 
 
